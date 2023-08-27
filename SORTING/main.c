@@ -43,6 +43,6 @@ int main()
     mergeSort(array5, 0, size - 1);
     printf("MERGE SORT: ");
     printArray(array5, size);
-    
+
     return 0;
 }
